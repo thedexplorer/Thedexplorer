@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.buttercms.com/FpbXDlu8SbOY6vH3m6Mj" width="480" alt="Welcome"/>
+  <img src="https://cdn.buttercms.com/FpbXDlu8SbOY6vH3m6Mj" width="440" alt="Welcome"/>
 </p>
 
 <h1 align="center">Dexlegion & IsRug Founder</h1>
