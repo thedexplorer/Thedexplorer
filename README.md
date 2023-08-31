@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://cdn.buttercms.com/FpbXDlu8SbOY6vH3m6Mj" width="440" alt="Welcome"/>
 </p>
-
-<h1 align="center">Dexlegion & IsRug Founder</h1>
-<h3 align="center">DeFi Guru 🧘 | Full-stack developer</h3>
 <p align="center">Currently working on Smart Contract Security, Generative AI, Blockhain Gaming</p>
 
 <div align="center">
