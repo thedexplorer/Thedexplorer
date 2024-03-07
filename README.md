@@ -7,7 +7,10 @@
 
 <div align="center">
    <h2 align="center">Technologies 👨‍💻</h2>
+  
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/Bun-yellow?style=for-the-badge&logo=bun&logoColor=white" alt="Bun">
+  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -15,6 +18,9 @@
   <img src="https://img.shields.io/badge/EVM-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="EVM">
   </br>
  <h2 align="center">Backend 🖥</h2>
+ <img src="https://img.shields.io/badge/GraphQL-TheGraph-purple?style=for-the-badge&logo=graphql&logoColor=white" alt="GrapgQL">
+  <img src="https://img.shields.io/badge/Viem-232225?style=for-the-badge&logo=viem&logoColor=white" alt="Viem">
+  <img src="https://img.shields.io/badge/CloudServerlessFunctions-F16822?style=for-the-badge&logo=google&logoColor=white" alt="Cloud">
   <img src="https://img.shields.io/badge/GPT API-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="GPT API">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
   <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="ETH">
@@ -27,14 +33,15 @@
   <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" alt="Chai">
   </br>
    <h2 align="center">Frontend 🖼</h2>
+   <img src="https://img.shields.io/badge/SvelteJS-%23E34F26.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+   <img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+  <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS">
+  <img src="https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D" alt="NuxtJS">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
-  <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS">
-  <img src="https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D" alt="NuxtJS">
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="Vuetify">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
