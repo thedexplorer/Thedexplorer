@@ -5,6 +5,19 @@
 <p align="center">I'm the founder of Dexlegion & isRug Honeypot Checker (discontinued)</p>
 <p align="center">Currently working on Wallet and Stablecoin projects as a core dev.</p>
 
+<div>
+    <h3 align="center">⏳ Stats:</h3>
+    <div class="row">
+        <div class="column">
+            <p align="center">
+                <img
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=Thedexplorer&layout=compact&theme=dark&hide_border=true&mode=weekly&card_width=450&card_height=190"
+                />
+            </p>
+        </div>
+    </div>
+</div>
+
 <div align="center">
    <h2 align="center">Technologies 👨‍💻</h2>
   
