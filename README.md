@@ -3,7 +3,6 @@
 </p>
 <h2 align="center">Hi 👋</h2>
 <p align="center">I'm the founder of Dexlegion & isRug Honeypot Checker (discontinued)</p>
-<p align="center">Currently working on Wallet and Stablecoin projects as a core dev.</p>
 
 <div>
     <h3 align="center">⏳ Stats:</h3>
