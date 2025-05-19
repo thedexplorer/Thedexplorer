@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋</h2>
-<p align="center">A self-driven full-stack developer with a passion for crafting high-quality web applications, proficient in both front-end and back-end technologies.</p>
+<p align="center">I am a self-driven full-stack developer with a passion for crafting high-quality web applications, proficient in both front-end and back-end technologies.</p>
 
 <div>
     <h3 align="center">⏳ Stats:</h3>
