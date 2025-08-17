@@ -1,19 +1,6 @@
 <h2 align="center">Hi 👋</h2>
 <p align="center">I am a self-driven full-stack developer with a passion for crafting high-quality web applications, proficient in both front-end and back-end technologies.</p>
 
-<div>
-    <h3 align="center">⏳ Stats:</h3>
-    <div class="row">
-        <div class="column">
-            <p align="center">
-                <img
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=Thedexplorer&layout=compact&theme=dark&hide_border=true&mode=weekly&card_width=450&card_height=190"
-                />
-            </p>
-        </div>
-    </div>
-</div>
-
 <div align="center">
    <h2 align="center">Technologies 👨‍💻</h2>
   
